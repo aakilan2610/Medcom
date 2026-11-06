@@ -1,1 +1,1 @@
-select @@SERVERNAME
+select @@SERVERNAME, @@VERSION
